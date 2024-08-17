@@ -35,5 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# database:
-firebase.js
+# # database:
+# firebase.js
